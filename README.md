@@ -16,3 +16,7 @@ The purpose of this project is to understand what makes a user default a loan fr
 11. AdaBoost Classifier
 12. Extra Tree Classifier
 'Part II' is about the NLP approach to find Default predictions by using text data from the Dataset.
+
+Here is the link to the Dataset: https://drive.google.com/file/d/1ulM3qK_SWYj5gpYOJ-dWA65ipV7iSCV6/view?usp=sharing
+
+The code shared along has both the ML modeling and NLP based predictions. 
